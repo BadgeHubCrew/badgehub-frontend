@@ -1,4 +1,8 @@
 # badgehub-frontend
+## This repo is Archived
+This is an old, now abandoned version of the badgehub frontend, it has been replaced with a frontend dir in the [badgehub-app repo](https://github.com/BadgeHubCrew/badgehub-app)
+
+## About
 
 The webinterface to Badgehub that interfaces with the badgehub api backend
 
